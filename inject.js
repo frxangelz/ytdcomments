@@ -8,7 +8,7 @@
 	github : https://github.com/frxangelz/
 */
 
-const _MAX_DELETE_TO_RELOAD = 5; // will reload page after certain amount of deletions
+const _MAX_DELETE_TO_RELOAD = 20; // will reload page after certain amount of deletions
 const _TIMEOUT_IN_SECS = 60;
 const _COMMENTS_PAGE = "https://myactivity.google.com/page?utm_source=my-activity&hl=en&page=youtube_comments";
 const _DEFAULT_WAIT_TIME = 5;
